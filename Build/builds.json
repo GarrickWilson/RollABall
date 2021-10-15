@@ -1,7 +1,7 @@
 {
 "companyName": "Garrick Wilson",
 "productName": "roll a ball",
-"productVersion": "1.0",
+"productVersion": "1.1",
 "dataUrl": "builds.data.unityweb",
 "wasmCodeUrl": "builds.wasm.code.unityweb",
 "wasmFrameworkUrl": "builds.wasm.framework.unityweb",
